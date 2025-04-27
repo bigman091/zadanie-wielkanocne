@@ -1,0 +1,54 @@
+body {
+    background-color: #FFFF99;
+    padding: 20px;
+    font-family: Arial;
+    color: black;
+}
+
+#baner {
+    text-align: center;
+    font-size: 50px;
+    color: Black;
+    border: 2px solid black;
+    padding: 20px;
+    background-color: #008080;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+#stopka {
+    text-align: center;
+    font-size: 20px;
+    color: Black;
+    background-color: #008080;
+    padding: 15px;
+    border-radius: 10px;
+    margin-top: 20px;
+    border: 2px solid black;
+}
+
+.left {
+    padding: 10px;
+    background-color: #228B22;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    border: 2px solid black;
+}
+
+.right {
+    background-color: #228B22;
+    padding: 10px;
+    border-radius: 10px;
+    border: 2px solid black;
+}
+
+img {
+    width: 150px;
+    height: 150px;
+    margin: 5px;
+    border-radius: 10px;
+}
+
+img:hover {
+    transform: scale(1.2);
+}
